@@ -39,7 +39,7 @@ async function downloadAndConvertToMp3(url, filePath) {
 
 module.exports = {
   config: {
-    name: "play",
+    name: "play2",
     aliases: [],
     permission: 0,
     prefix: true,
